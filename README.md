@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Bem-vindo/a ao meu perfil!" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/header-PT.png">
+  <img width="100%" alt="Bem-vindo/a ao meu perfil!" src="https://github.com/angelodonada/angelodonada/blob/main/img/header-PT.png">
 </div>
 
 <p align="center">
@@ -7,24 +7,24 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.md">PT</a> |
-  <a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.english.md">EN</a> |
-  <a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.espanol.md">ES</a> |
-  <a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.français.md">FR</a>
+  <a href="https://github.com/angelodonada/angelodonada/blob/main/README.md">PT</a> |
+  <a href="https://github.com/angelodonada/angelodonada/blob/main/README.english.md">EN</a> |
+  <a href="https://github.com/angelodonada/angelodonada/blob/main/README.espanol.md">ES</a> |
+  <a href="https://github.com/angelodonada/angelodonada/blob/main/README.français.md">FR</a>
 </div>
 
 <h2 align="center">Sobre mim</h2>
 
 <p align="center">
   - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.<br>
-  - 💼 Também trabalho em projetos pessoais para meu <a href="https://wangeloow.github.io/portfolio/">portfólio<a/>.<br>
+  - 💼 Também trabalho em projetos pessoais para meu <a href="https://angelodonada.github.io/portfolio/">portfólio<a/>.<br>
   - 📧 Entre em contato: <a href="mailto:angelodonada@gmail.com">angelodonada@gmail.com</a>
 </p>
 
 <h2 align="center">Estatísticas</h2>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wAngeloow&theme=gotham" width="650" alt="Gráfico de estatísticas"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodonada&theme=gotham" width="650" alt="Gráfico de estatísticas"/>
 </div>
 
 <h2 align="center">Me encontre</h2>
@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wAngeloow/wAngeloow/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/angelodonada/angelodonada/output/github-contribution-grid-snake.svg">
 </div>
 
 <div align="center">
@@ -45,5 +45,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" alt="Imagem do footer" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/footer.png">
+  <img width="100%" alt="Imagem do footer" src="https://github.com/angelodonada/angelodonada/blob/main/img/footer.png">
 </div>
