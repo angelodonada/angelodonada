@@ -10,7 +10,6 @@
   <a href="https://github.com/angelodonada/angelodonada/blob/main/README.md">PT</a> |
   <a href="https://github.com/angelodonada/angelodonada/blob/main/README.english.md">EN</a> |
   <a href="https://github.com/angelodonada/angelodonada/blob/main/README.espanol.md">ES</a> |
-  <a href="https://github.com/angelodonada/angelodonada/blob/main/README.français.md">FR</a>
 </div>
 
 <h2 align="center">Sobre mim</h2>
